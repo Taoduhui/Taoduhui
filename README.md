@@ -16,6 +16,8 @@ Embedded: DSP STM32 FPGA PLC
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taoduhui&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taoduhui&layout=compact&theme=dark)
+
+Contact me: Taoduhui@hotmail.com
 <!--
 **Taoduhui/Taoduhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
